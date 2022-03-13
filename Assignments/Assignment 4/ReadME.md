@@ -10,3 +10,5 @@ A fair warning to anyone that may try to run this simulation, if the blue ocean 
 ![img1](https://github.com/Byron-Dowling/4553-Agent-Based-Modelling/blob/main/Assignments/Assignment%204/ABM%20P6.PNG?raw=true)
 \
 ![img2](https://github.com/Byron-Dowling/4553-Agent-Based-Modelling/blob/main/Assignments/Assignment%204/ABM%20P5.PNG?raw=true)
+\
+![img3](https://github.com/Byron-Dowling/4553-Agent-Based-Modelling/blob/main/Assignments/Assignment%204/ABM%20P4.PNG?raw=true)
