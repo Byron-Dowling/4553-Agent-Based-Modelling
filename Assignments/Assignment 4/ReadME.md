@@ -5,7 +5,7 @@ This model simulates an ocean ecosystem as there are grey agents, which represen
 \
 This ABM model has two sliders to control the predator and prey population. It also has a follow function that allows you to more closely follow a random shark agent throughout the simulation, which can be stopped at your choosing. There are also options to show trails of the agent movements to get an idea of how the agents are moving through the 3D space. This can be stopped and the trails can be wiped at any time if it clutters the view too much.\
 \
-A fair warning to anyone that may try to run this simulation, if the blue ocean color is present, this is too much strain on a typical 8 GB RAM machine. As a result, it may be best to disable color patches in the code before running.
+A fair warning to anyone that may try to run this simulation, if the blue ocean color is present, this is too much strain on a typical 8 GB RAM machine. As a result, it may be best to disable color patches in the code before running. UPDATE: on a 16 GB RAM machine, the patches run "Ok" but it is still slow
 
 ![img1](https://github.com/Byron-Dowling/4553-Agent-Based-Modelling/blob/main/Assignments/Assignment%204/ABM%20P6.PNG?raw=true)
 \
